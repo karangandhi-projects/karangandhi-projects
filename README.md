@@ -24,42 +24,41 @@ Most of my repos are structured as **learning-friendly, step-by-step projects**,
 ## 🚀 Highlighted projects
 
 ### 🔧 [vnet-driver](https://github.com/karangandhi-projects/vnet-driver)
-A step-by-step **Linux virtual Ethernet driver (`vnet0`)** with TX/RX rings, NAPI, ethtool, stats, and a clear roadmap of phases. Includes dynamic debug usage, CI, and plans for a userspace backend. :contentReference[oaicite:3]{index=3}  
+A step-by-step **Linux virtual Ethernet driver (`vnet0`)** with TX/RX rings, NAPI, ethtool, stats, and a clear roadmap of phases. Includes dynamic debug usage, CI, and plans for a userspace backend.   
 
 **Tech:** C, Linux kernel, net_device, NAPI, ethtool
 
 
 
 ### 🚗 [mini-ecu-v2](https://github.com/karangandhi-projects/mini-ecu-v2)
-A **virtual automotive ECU** on STM32F446RE with FreeRTOS, CAN loopback telemetry, a UART CLI + live dashboard, logging framework, and a **custom bootloader** (Phase 1 & 2 complete). Includes CI builds with ARM-GCC and detailed docs/roadmap. :contentReference[oaicite:4]{index=4}  
-
+A **virtual automotive ECU** on STM32F446RE with FreeRTOS, CAN loopback telemetry, a UART CLI + live dashboard, logging framework, and a **custom bootloader** (Phase 1 & 2 complete). Includes CI builds with ARM-GCC and detailed docs/roadmap.
 **Tech:** C, STM32 HAL, FreeRTOS, CAN, UART, bootloader design, CI
 
 
 
 ### 🧰 [stm32-virtual-vehicle-ecu](https://github.com/karangandhi-projects/stm32-virtual-vehicle-ecu)
-A modular **STM32F4 virtual vehicle ECU** with FreeRTOS, CAN, UART CLI, and a physics-based vehicle model – a more “from-scratch” version of the ECU idea with focus on clean architecture and modularization. :contentReference[oaicite:5]{index=5}  
+A modular **STM32F4 virtual vehicle ECU** with FreeRTOS, CAN, UART CLI, and a physics-based vehicle model – a more “from-scratch” version of the ECU idea with focus on clean architecture and modularization. 
 
 **Tech:** C, STM32F4, FreeRTOS, CAN, embedded architecture
 
 
 
 ### 🔁 [embedded-comeback-playground](https://github.com/karangandhi-projects/embedded-comeback-playground)
-An STM32 NUCLEO-F446RE **practice playground** with interrupt-driven UART, CLI, multithreading, and a modular virtual sensor architecture using STM32CubeIDE + FreeRTOS. A “sandbox” to get back into embedded development. :contentReference[oaicite:6]{index=6}  
+An STM32 NUCLEO-F446RE **practice playground** with interrupt-driven UART, CLI, multithreading, and a modular virtual sensor architecture using STM32CubeIDE + FreeRTOS. A “sandbox” to get back into embedded development.
 
 **Tech:** C, STM32, FreeRTOS, drivers, UART/CLI
 
 
 
 ### 📦 [Pseudo-Character-Device-Driver](https://github.com/karangandhi-projects/Pseudo-Character-Device-Driver)
-A basic **pseudo character device driver** that mimics a real char driver with open/close/read/write/lseek operations and multiple devices. Great for understanding file operations in the Linux kernel. :contentReference[oaicite:7]{index=7}  
+A basic **pseudo character device driver** that mimics a real char driver with open/close/read/write/lseek operations and multiple devices. Great for understanding file operations in the Linux kernel. 
 
 **Tech:** C, Linux kernel, char drivers
 
 
 
 ### ⏱️ [EE-6314-RTOS](https://github.com/karangandhi-projects/EE-6314-RTOS)
-A multi-threaded **RTOS design for TM4C123GH6PM** implementing pre-emptive and co-operative scheduling, semaphores, and core kernel APIs (yield/sleep/wait/signal). University project that kick-started my RTOS interest. :contentReference[oaicite:8]{index=8}  
+A multi-threaded **RTOS design for TM4C123GH6PM** implementing pre-emptive and co-operative scheduling, semaphores, and core kernel APIs (yield/sleep/wait/signal). University project that kick-started my RTOS interest.
 
 **Tech:** C, RTOS design, ARM Cortex-M4F
 
