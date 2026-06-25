@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/karangandhi-projects">GitHub</a> ·
   <a href="https://www.linkedin.com/in/karangandhi0210/">LinkedIn</a> .
-  <a href="https://portfolio-karan-gandhi.vercel.app/">Website</a>a>
+  <a href="https://portfolio-karan-gandhi.vercel.app/">Website</a>
 </p>
 
 ---
